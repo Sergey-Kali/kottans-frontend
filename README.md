@@ -1,18 +1,18 @@
 ﻿# kottans-frontend 
-<<<<<<< HEAD
+
 # 0. Git Basics
 
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
 - [x] Тиждень 1:
 <details>
   <summary>Week1</summary>
-  <img src = "">
+  <img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_git_collaboration/Week%201.png">
 </details>
 
 - [x] Тиждень 2:
 <details>
   <summary>Week2</summary>
-  <img src = "">
+  <img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_git_collaboration/Week%202.png">
 </details>
 
 ## [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
@@ -42,5 +42,5 @@
 - [ ] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/)
 =======
 
->>>>>>> ef7029b8db4afeb1820ecffb86f39309356e7916
+
  
