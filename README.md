@@ -1,4 +1,5 @@
 ﻿# kottans-frontend 
+<<<<<<< HEAD
 # 0. Git Basics
 
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
@@ -39,4 +40,7 @@
 - [ ] [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
 - [ ] [TypingClub — покращити швидкість набору на клавіатурі](https://www.typingclub.com/) 
 - [ ] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/)
+=======
+
+>>>>>>> ef7029b8db4afeb1820ecffb86f39309356e7916
  
