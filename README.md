@@ -19,17 +19,17 @@
 - [x] Основи:
 <details>
   <summary>Basics</summary>
-  <img src = >
+  <img src = https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_git_collaboration/Learn%20Git.jpg>
 </details>
 
 - [x] Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!:
 <details>
   <summary>Push & Pull</summary>
-  <img src = >
+  <img src = https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_git_collaboration/Pull%20%26%20push.jpg>
 </details>
 
 ## Надіслати pull-request
-Ось: 
+Here: 
 ## Вивчити додаткові матеріали
 - [ ] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 - [ ] [Git за 30 хвилин](https://codeguida.com/post/453)
@@ -40,7 +40,7 @@
 - [ ] [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
 - [ ] [TypingClub — покращити швидкість набору на клавіатурі](https://www.typingclub.com/) 
 - [ ] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/)
-=======
+
 
 
  
