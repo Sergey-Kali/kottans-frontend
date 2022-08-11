@@ -7,18 +7,16 @@
 ## 1. Linux CLI and Networking.
 
 #### Скріншоти:
-
+<summary>
 <img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_linux_cli/Quiz%201.png">
 <img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_linux_cli/Quiz%202.png">
 <img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_linux_cli/Quiz%203.png">
-<img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_linux_cli/Quiz%204.png">
+<img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_linux_cli/Quiz%204.png"> </summary>
 
 #### Висновки:
 Було корисно.
 
 ## 2. Git Collaboration.
-
-
 
 
 
