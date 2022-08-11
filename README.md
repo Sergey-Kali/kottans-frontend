@@ -7,11 +7,12 @@
 ## 1. Linux CLI and Networking.
 
 #### Скріншоти:
-<summary>
+<details>
 <img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_linux_cli/Quiz%201.png">
 <img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_linux_cli/Quiz%202.png">
 <img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_linux_cli/Quiz%203.png">
-<img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_linux_cli/Quiz%204.png"> </summary>
+<img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_linux_cli/Quiz%204.png"> 
+</details>
 
 #### Висновки:
 Було корисно.
@@ -23,4 +24,3 @@
 
 
 
- 
