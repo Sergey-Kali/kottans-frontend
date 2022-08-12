@@ -8,6 +8,7 @@
 
 #### Скріншоти:
 <details>
+<summary>Pictures</summary>
 <img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_linux_cli/Quiz%201.png">
 <img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_linux_cli/Quiz%202.png">
 <img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_linux_cli/Quiz%203.png">
@@ -19,8 +20,14 @@
 
 ## 2. Git Collaboration.
 
-
-
+#### Скріншоти:
+<details>
+<summary>Pictures</summary>
+<img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_git_collaboration/Week%203.png">
+<img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_git_collaboration/Week%204.png">
+<img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_git_collaboration/Learn%20Git.jpg">
+<img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_git_collaboration/Pull%20%26%20push.jpg">
+<details>
 
 
 
