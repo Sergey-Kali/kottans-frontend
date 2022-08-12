@@ -27,7 +27,7 @@
 <img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_git_collaboration/Week%204.png">
 <img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_git_collaboration/Learn%20Git.jpg">
 <img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_git_collaboration/Pull%20%26%20push.jpg">
-<details>
+</details>
 
 #### Висновки:
 Раніше користувався UI-ною формою спілкування з Git. Тепер є знання як працювати з терміналом, але я не впевнений, що буду використовувати термінал. Можливо пвзніше з досвідом прийде.
