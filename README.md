@@ -4,7 +4,7 @@
 
 Закріпив матеріал по Git.
 
-## 1. Linux CLI and Networking.
+## 1. Linux CLI and HTTP.
 
 #### Скріншоти:
 <details>
