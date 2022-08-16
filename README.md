@@ -37,8 +37,8 @@
 #### Скріншоти:
 <details>
 <summary>Pictures</summary>
-<img src = "">
-<img src = "">
+<img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_html_css_intro/Week%201.png">
+<img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_html_css_intro/Week%202.png">
 </details>
 
 #### Висновки:
