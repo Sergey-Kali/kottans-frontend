@@ -43,3 +43,15 @@
 
 #### Висновки:
 Трішки краще засвоїв адаптивну верстку)
+
+## 4. Responsive Web Design
+
+#### Скріншоти:
+<details>
+<summary>Pictures</summary>
+<img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_responsive_web_design/Flexbox%20Froggy.png">
+<img src = "https://github.com/Sergey-Kali/kottans-frontend/blob/main/task_responsive_web_design/Grid%20Garden.png">
+</details>
+
+#### Висновки:
+Ознайомився з CSS Grid Layout. Закріпив знання FLEXBOX.
