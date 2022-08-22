@@ -55,3 +55,16 @@
 
 #### Висновки:
 Ознайомився з CSS Grid Layout. Закріпив знання FLEXBOX.
+
+## HTML і CSS практика: Hooli-style Popup
+
+[Demo](https://sergey-kali.github.io/popup/)
+
+[Code base](https://sergey-kali.github.io/popup/)
+
+#### Висновки:
+Витратив дуже багато часу на це завдання. Зробив по шаблону одного з студентів. Потрібно ще зверстати самостійно 
+кілька макетів щоб розібратись.
+
+
+
