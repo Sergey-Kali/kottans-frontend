@@ -56,7 +56,7 @@
 #### Висновки:
 Ознайомився з CSS Grid Layout. Закріпив знання FLEXBOX.
 
-## HTML і CSS практика: Hooli-style Popup
+## 5. HTML і CSS практика: Hooli-style Popup
 
 [Demo](https://sergey-kali.github.io/popup/)
 
